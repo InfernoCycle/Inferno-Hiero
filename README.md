@@ -1,7 +1,7 @@
 # Inferno-Hiero
 
 ## What is it?
-This is a simple video editor that I am working on right now will allow users to trim and put together clips to make larger or smaller videos. I will be clear that I will not be able to implement special effects like many of the more popular applications such as DaVinci and Adobe Premiere.
+This is a simple video editor that I am working on right now that will allow users to trim and put together clips to make larger or smaller videos. I will be clear that I will not be able to implement special effects like many of the more popular applications such as DaVinci and Adobe Premiere.
 
 ## When will it be finished
 I have no set time for when it will be finished. I will slowly keep working on it until I get it to an atleast workable state. Right now all I can do on it is create projects to seperate out what media files a user wants to use inside that project.
