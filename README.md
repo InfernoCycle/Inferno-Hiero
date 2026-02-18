@@ -9,6 +9,9 @@ I have no set time for when it will be finished. I will slowly keep working on i
 ## Do you have any pictures of any work done on it?
 Yes below I will post come pictures that I took of the pages of the application
 
+<img width="1282" height="810" alt="image" src="https://github.com/user-attachments/assets/dee87def-d017-418c-b81e-e4c9fc9be2f4" />
+
+
 ![HomePage to add video](https://github.com/user-attachments/assets/abc26f47-4f76-4ccd-8d9b-53df6304a787)
 
 
